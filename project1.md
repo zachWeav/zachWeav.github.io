@@ -22,15 +22,33 @@ The project is designed to facilitate basic file-sharing capabilities and only s
 
 ## How to compile and run the program
 
-How to compile (if applicable) and run the project.
+#Note: This project must be run in a Linux or other Unix-based environment
+#Prerequisites: Make sure you have a C++ compiler installed
 
+#Step 1: Open Two Terminal Windows/Tabs
+To compile the separate client and server, begin by opening two terminals one for the server and one for the client.
+
+#Step 2: Compile the Server Program
+In one terminal, navigate to the 'UDP_server' directory where the source file is located and compile using g++
 ```bash
-cd ./project
-python setup.py
+g++ server.cpp -o server
 ```
+This generates the executable 'server'
 
-If the programming language does not require compilation, the update the heading to be “How to run the program.” If your application is deployed on a remote service, including instructions on how to deploy it.
+#Step 3: Compile the Client Program
+In the second terminal, navigate to the 'UDP_client' directory and compile the source file using g++
+```bash
+g++ client.cpp -o client
+```
+This generates the executable 'client'
 
+#Step 4: Run the Program Executables
+In each terminal, run both server and client executables respectively
+NOTE: The server must be run first to receive files from the client
+```bash
+./server
+./client
+``` 
 ## UI Design
 
 Almost every program requires user interaction, even command-line programs. Include in this section the tasks the user can complete and what the program does. You don't need to include how it works here; that information may go in the project description or in an additional section, depending on its significance.

@@ -60,7 +60,7 @@ Fig 2. Running the client executable.
 Fig 3. The user inputs a file for the client to send.
 
 ![screenshot](images/serverReceived.png)  
-Fig 3. The server successfully receives the file.
+Fig 4. The server successfully receives the file.
 
 
 [Back to Portfolio](./)

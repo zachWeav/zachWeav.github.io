@@ -50,16 +50,16 @@ NOTE: The server must be run first to receive files from the client
 
 After compiling and running the server client executables, the user will be asked to choose a file to send from the UDP_client directory to the UDP_server directory.  Successful file transfer will occur with server acknowlegement.
 
-![screenshot](images/serverRun.jpg)  
+![screenshot](images/serverRun.png)  
 Fig 1. Running the server executable.
 
-![screenshot](images/clientRun.jpg)  
+![screenshot](images/clientRun.png)  
 Fig 2. Running the client executable.
 
-![screenshot](images/clientSent.jpg)  
+![screenshot](images/clientSent.png)  
 Fig 3. The user inputs a file for the client to send.
 
-![screenshot](images/serverReceived.jpg)  
+![screenshot](images/serverReceived.png)  
 Fig 3. The server successfully receives the file.
 
 

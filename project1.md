@@ -3,11 +3,11 @@
 Project 1 Title
 ===============
 
--   **Class:** 
--   **Grade:** 
--   **Language(s):** 
--   **Source Code Repository:** [features/mastering-markdown](https://guides.github.com/features/mastering-markdown/)  
-    (Please [email me](mailto:example@csustudent.net?subject=GitHub%20Access) to request access.)
+-   **Class: Applied Networking** 
+-   **Grade: B+** 
+-   **Language(s): C++** 
+-   **Source Code Repository:** [features/mastering-markdown](https://github.com/zachWeav/CSCI332_Applied_Networking/blob/main/UDP_client/client.cpp) 
+    (Please [email me](mailto:ZDWeaver@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
 

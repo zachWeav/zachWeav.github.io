@@ -26,24 +26,21 @@ The project is designed to facilitate basic file-sharing capabilities and only s
 **Prerequisites:** Make sure you have a C++ compiler installed
 
 **Step 1:** Open Two Terminal Windows/Tabs
-To compile the separate client and server, begin by opening two terminals one for the server and one for the client.
+to compile the separate client and server.
 
-**Step 2:** Compile the Server Program
-In one terminal, navigate to the 'UDP_server' directory where the source file is located and compile using g++
+**Step 2:** Navigate to the 'UDP_server' directory where the source file is located and compile using g++
 ```bash
 g++ server.cpp -o server
 ```
 This generates the executable 'server'
 
-**Step 3:** Compile the Client Program
-In the second terminal, navigate to the 'UDP_client' directory and compile the source file using g++
+**Step 3:** In the second terminal, navigate to the 'UDP_client' directory and compile the source file using g++
 ```bash
 g++ client.cpp -o client
 ```
 This generates the executable 'client'
 
-**Step 4:** Run the Program Executables
-In each terminal, run both server and client executables respectively
+**Step 4:** In both terminals, run both server and client executables respectively
 NOTE: The server must be run first to receive files from the client
 ```bash
 ./server

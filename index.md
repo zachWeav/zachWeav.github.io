@@ -7,7 +7,7 @@ Programming Projects
 *For access to my private project repositories, please [email me](mailto:ZDWeaver@csustudent.net?subject=GitHub%20Access) with the subject line, GitHub Access.
 
 ---
-### [UDP Fileshare | CSCI 332](project1)
+### [UDP Fileshare | CSCI 332](project1.md)
 
 ![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
 

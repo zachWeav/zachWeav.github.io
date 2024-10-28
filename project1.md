@@ -1,12 +1,12 @@
 [Back to Portfolio](./)
 
-CSCI332 Applied Networking - UDP Fileshare
+UDP Fileshare
 ===============
 
--   **Class: Applied Networking** 
+-   **Class: CSCI332 - Applied Networking** 
 -   **Grade: B+** 
 -   **Language(s): C++** 
--   **Source Code Repository:** [Click Here](https://github.com/zachWeav/CSCI332_Applied_Networking/blob/main/UDP_client/client.cpp) 
+-   **Source Code Repository:** [Click Here](https://github.com/zachWeav/CSCI332_Applied_Networking/tree/main) 
     (Please [email me](mailto:ZDWeaver@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description

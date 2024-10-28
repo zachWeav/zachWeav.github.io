@@ -32,28 +32,28 @@ java -cp src CSU.CSCI325.OnlineSupplyCo
 
 After compiling and running the Java program, the user will be walked through an emulated online store.
 
-![screenshot](Images/WelcomePage.png)  
+![screenshot](images/project2/WelcomePage.png)  
 Fig 1. The user is greeted with the login page
 
-![screenshot](Images/Credentials.png)  
+![screenshot](images/project2/Credentials.png)  
 Fig 2. The user may sign in with an existing account or create a new one.  All account credentials are stored in a text file in the folders directory for future use.
 
-![screenshot](Images/MainMenu.png)  
+![screenshot](images/project2/MainMenu.png)  
 Fig 3. Once logged in, users are greeted with three menu options.
 
-![screenshot](Images/Products.png)  
+![screenshot](images/project2/Products.png)  
 Fig 4. On the products page, users may choose to add products to their cart.
 
-![screenshot](Images/products2.png)  
+![screenshot](images/project2/products2.png)  
 Fig 4.1 After adding a product to their cart, users may choose to add more items or return to the main menu.
 
-![screenshot](Images/Cart.png)  
+![screenshot](images/project2/Cart.png)  
 Fig 5 Users may view their cart at any time to see additional details before checking out.
 
-![screenshot](Images/Checkout1.png)  
+![screenshot](images/project2/Checkout1.png)  
 Fig 6 If they choose to checkout, users are asked to choose their preferred form of payment and enter any required payment information.
 
-![screenshot](Images/Receipt.png)  
+![screenshot](images/project2/Receipt.png)  
 Fig 7 After checking out, a receipt is displayed including the user's order and payment information.
 
 

@@ -31,20 +31,20 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [Ethics as it Relates to Copyright in Computer Science](/pdf/CSCI 301 Ethics paper Copyright.pdf)
 
--   **Class:**  
--   **Grade:**
+-   **Class: CSCI 301 - Survey of Scripting Languages **  
+-   **Grade: A**
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
+### [Handling Ethical Issues from a Biblical Perspective](/pdf/CSCI 325 Ethics Paper.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class: CSCI 325 - Object Oriented Programming** 
+-   **Grade: A**
 
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
+### [Ethical Implications of Artificial Intelligence](/pdf/CSCI210 - AI Ethics Paper.pdf)
 
--   **Class:** 
--   **Grade:**
+-   **Class: CSCI 210 - Intro to Computer Science Through Robotics** 
+-   **Grade: A**
 
 ---
 

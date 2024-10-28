@@ -1,6 +1,6 @@
 [Back to Portfolio](./)
 
-Applied Networking - UDP Fileshare
+CSCI332 Applied Networking - UDP Fileshare
 ===============
 
 -   **Class: Applied Networking** 

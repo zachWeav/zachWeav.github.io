@@ -51,10 +51,10 @@ Ethics Papers
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/sample_presentation.pdf)
+### [The Shadow Brokers](pdf/The Shadow Brokers.pdf)
 
-- **Class:** 
-- **Grade:**
+- **Class: Principles of Cybersecurity** 
+- **Grade: B+**
 
 
 ### [Presentation 2 Title](/pdf/sample_presentation.pdf)

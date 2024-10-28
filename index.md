@@ -9,12 +9,12 @@ Programming Projects
 ---
 ### [UDP Fileshare | CSCI 332](project1.md)
 
-![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 1 Thumbnail Name](images/project1/serverReceived.png)
 
 ---
 ### [Online Supply Co - Store Simulation | CSCI 325](project2.md)
 
-![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 2 Thumbnail Name](images/project2/Products.png)
 
 ---
 ### [Project 3 Title | CSCI 325](project1)

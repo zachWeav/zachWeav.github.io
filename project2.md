@@ -1,6 +1,14 @@
-# CSCI325 Object Oriented Programming
-Final Project - Online Supply Co Store Simulator
+[Back to Portfolio](./)
 
+CSCI325 Final Project - Online Supply Co Store Simulator
+===============
+
+-   **Class: Object Oriented Programming** 
+-   **Grade: B+** 
+-   **Language(s): Java** 
+-   **Source Code Repository:** [Click Here](https://github.com/zachWeav/CSCI325_Object_Oriented_Programming/tree/main) 
+    (Please [email me](mailto:ZDWeaver@csustudent.net?subject=GitHub%20Access) to request access.)
+    
 ## Project description
 
 The Online Supply Co program is a Java-based application designed to emulate the core functionality of a real-world online store by walking users through a simple shopping process.  The project allows users to manage an account, browse items in the shop, add them to a cart, and complete a simulated checkout process.  

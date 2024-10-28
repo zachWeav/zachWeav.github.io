@@ -12,7 +12,7 @@ Programming Projects
 ![Project 1 Thumbnail Name](images/dummy_thumbnail.jpg)
 
 ---
-### [Project 2 Title | CSCI 315](project1)
+### [Online Supply Co - Store Simulation | CSCI 325](project2.md)
 
 ![Project 2 Thumbnail Name](images/dummy_thumbnail.jpg)
 

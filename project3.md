@@ -10,7 +10,7 @@ All Processor components were constructed and tested using Verilog HDL.  The com
 
 **Data Flow Used:**
 
-![screenshot](Images/dataFlow.jpg)
+![screenshot](images/project3/dataFlow.jpg)
 
 **Processor Components:**
 -    **Register File**
@@ -50,10 +50,10 @@ iverilog SCP_FULL-Test.v -o output.out
 After compiling and running the verilog program, the processor will read the specified file into the instruction memory before displaying the test bench results.
 Users can view which registers the processor is using to read/write, along with decoded instructions until a HALT instruction is found.
 
-![screenshot](Images/SCP_PRG_BIN_SS.png)  
+![screenshot](images/project3/SCP_PRG_BIN_SS.png)  
 Fig 1. This is the file currently being used to read into the processor's instruction memory
 
-![screenshot](Images/SCP_PRG_BIN_MCcode_Example.png)  
+![screenshot](images/project3/SCP_PRG_BIN_MCcode_Example.png)  
 Fig 2. After reading the file into instruction memory, the processor prints specified registers and ALU results to the screen.  It then completes basic machine code instructions (ADD, WRITE, and HALT) that are found in the prg.bin file and shows what registers the instructions are being written to. 
 
 ## Additional Notes

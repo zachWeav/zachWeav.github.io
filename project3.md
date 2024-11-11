@@ -1,3 +1,5 @@
+[Back to Portfolio](./)
+
 # CSCI330 Computer Architecture
 Final Project - Single Cycle Processor
 

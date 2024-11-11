@@ -22,7 +22,7 @@ Programming Projects
 ![Project 3 Thumbnail Name](images/project3/dataFlow.jpg)
 
 ---
-### [Project 4 Title | CSCI 332](project1)
+### [Project 4 Title | CSCI 301](project4.md)
 
 ![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
 

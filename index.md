@@ -52,15 +52,12 @@ Presentations
 -------------
 
 ### [The Shadow Brokers](pdf/The Shadow Brokers.pdf)
+### [STUXNET - The Worm That Prevented War](/pdf/STUXNET.pdf)
 
 - **Class: Principles of Cybersecurity** 
 - **Grade: B+**
 
 
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
-
-- **Class:** 
-- **Grade:**
 
 ---
 

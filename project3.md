@@ -1,7 +1,14 @@
 [Back to Portfolio](./)
 
-# CSCI330 Computer Architecture
-Final Project - Single Cycle Processor
+Single Cycle Processor
+===============
+
+-   **Class: CSCI330 - Computer Architecture** 
+-   **Grade: B** 
+-   **Language(s): Verilog** 
+-   **Source Code Repository:** [Click Here](https://github.com/zachWeav/CSCI330_Computer_Architecture/tree/main) 
+    (Please [email me](mailto:ZDWeaver@csustudent.net?subject=GitHub%20Access) to request access.)
+
 
 ## Project Description
 

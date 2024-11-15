@@ -22,9 +22,9 @@ Programming Projects
 ![Project 3 Thumbnail Name](images/project3/dataFlow.jpg)
 
 ---
-### [Project 4 Title | CSCI 301](project4.md)
+### [Wordle Bash | CSCI 301](project4.md)
 
-![Project 4 Thumbnail Name](images/dummy_thumbnail.jpg)
+![Project 4 Thumbnail Name](images/project4/wordle_start.png)
 
 ---
 

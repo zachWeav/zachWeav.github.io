@@ -22,8 +22,7 @@ The project is designed to facilitate basic file-sharing capabilities and only s
 
 ## How to compile and run the program
 
-**NOTE:**  This project must be run in a Linux or other Unix-based environment
-**Prerequisites:** Make sure you have a C++ compiler installed
+**Prerequisites:** In order to successfully compile the files you will need a gcc compiler installed on your system.
 
 **Step 1:** Open Two Terminal Windows/Tabs
 to compile the separate client and server.
@@ -40,10 +39,15 @@ g++ client.cpp -o client
 ```
 This generates the executable 'client'
 
-**Step 4:** In both terminals, run both server and client executables respectively
+**Step 4:** In the server terminal, run the server executable
 NOTE: The server must be run first to receive files from the client
 ```bash
 ./server
+```
+
+**Step 5:** In the client terminal, run the client executable
+NOTE: The client may now send files to the server
+```bash
 ./client
 ``` 
 ## UI Design

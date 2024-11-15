@@ -35,22 +35,22 @@ $ ./wordle.sh
 
 Running the bash script will begin the game inside the users command line interface. 
 
-![screenshot](Images/wordle_start.png)  
+![screenshot](images/project4/wordle_start.png)  
 Fig 1. Upon game start, the user is initially prompted to guess a five-letter word.  The user's attempts are displayed throughout the game. 
 
 
 
-![screenshot](Images/wordle_feedback1.png)  
+![screenshot](images/project4/wordle_feedback1.png)  
 Fig 2. After choosing a word, the user is given hints to help guide them in their next word selection.  For each attempt, any correctly guessed letters will additionally be displayed.
 
 
 
-![screenshot](Images/wordle_feedback2.png)  
+![screenshot](images/project4/wordle_feedback2.png)  
 Fig 3. If at any point the user correctly guesses the word, they are given a message congratulating them on successful game completion.
 
 
 
-![screenshot](Images/wordle_failedAttempts.png)  
+![screenshot](images/project4/wordle_failedAttempts.png)  
 Fig 4. If the user fails to guess the word in __six__ attempts, the game will display a final message containing the word before exiting.
 
 

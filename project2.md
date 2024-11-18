@@ -1,12 +1,12 @@
 [Back to Portfolio](./)
 
-Online Supply Co Store Simulator
+Online Store Simulator
 ===============
 
 -   **Class: CSCI325 - Object Oriented Programming** 
 -   **Grade: A** 
 -   **Language(s): Java** 
--   **Source Code Repository:** [Click Here](https://github.com/zachWeav/CSCI325_Object_Oriented_Programming/tree/main) 
+-   **Source Code Repository:** [Click Here](https://github.com/zachWeav/CSCI325_Online_Store_Simulator) 
     (Please [email me](mailto:ZDWeaver@csustudent.net?subject=GitHub%20Access) to request access.)
     
 ## Project description

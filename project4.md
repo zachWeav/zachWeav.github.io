@@ -6,7 +6,7 @@ Wordle Bash
 -   **Class: CSCI301 - Survey of Scripting Languages** 
 -   **Grade: A** 
 -   **Language(s): Bash** 
--   **Source Code Repository:** [Click Here](https://github.com/zachWeav/CSCI301_Scripting_Languages/tree/main) 
+-   **Source Code Repository:** [Click Here](https://github.com/zachWeav/CSCI301_Wordle_Bash/tree/main) 
     (Please [email me](mailto:ZDWeaver@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
@@ -17,7 +17,7 @@ The Wordle Bash Game is a command-line implementation of a word-guessing game wr
 -    **Random selection of a target word from a customizable text file**
 -    **Input validation**
 -    **Iterative feedback to guide the user through the game**
--    **A simple game loop with limited number of attempts to increase challenge**
+-    **A simple game loop with a limited number of attempts to increase challenge**
 
 ## How to compile and run the program
 

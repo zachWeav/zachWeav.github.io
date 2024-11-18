@@ -6,7 +6,7 @@ Single Cycle Processor
 -   **Class: CSCI330 - Computer Architecture** 
 -   **Grade: B** 
 -   **Language(s): Verilog** 
--   **Source Code Repository:** [Click Here](https://github.com/zachWeav/CSCI330_Computer_Architecture/tree/main) 
+-   **Source Code Repository:** [Click Here](https://github.com/zachWeav/CSCI330_Single_Cycle_Processor/tree/main) 
     (Please [email me](mailto:ZDWeaver@csustudent.net?subject=GitHub%20Access) to request access.)
 
 

@@ -6,7 +6,7 @@ Online Store Simulator
 -   **Class: CSCI325 - Object Oriented Programming** 
 -   **Grade: A** 
 -   **Language(s): Java** 
--   **Source Code Repository:** [Click Here](https://github.com/zachWeav/CSCI325_Online_Store_Simulator) 
+-   **Source Code Repository:** [Click Here](https://github.com/zachWeav/CSCI325_Online_Store_Simulator/tree/main) 
     (Please [email me](mailto:ZDWeaver@csustudent.net?subject=GitHub%20Access) to request access.)
     
 ## Project description

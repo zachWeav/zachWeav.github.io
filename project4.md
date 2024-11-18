@@ -6,7 +6,7 @@ Wordle Bash
 -   **Class: CSCI301 - Survey of Scripting Languages** 
 -   **Grade: A** 
 -   **Language(s): Bash** 
--   **Source Code Repository:** [Click Here](https://github.com/zachWeav/CSCI301_Wordle_Bash/tree/main) 
+-   **Source Code Repository:** [Click Here](https://github.com/zachWeav/CSCI301_Wordle_Bash/tree/main) <br>
     (Please [email me](mailto:ZDWeaver@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description

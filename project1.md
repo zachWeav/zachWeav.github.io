@@ -6,7 +6,7 @@ Fileshare Server
 -   **Class: CSCI332 - Applied Networking** 
 -   **Grade: B+** 
 -   **Language(s): C++** 
--   **Source Code Repository:** [Click Here](https://github.com/zachWeav/CSCI332_Fileshare_Server/tree/main) 
+-   **Source Code Repository:** [Click Here](https://github.com/zachWeav/CSCI332_Fileshare_Server/tree/main) <br>
     (Please [email me](mailto:ZDWeaver@csustudent.net?subject=GitHub%20Access) to request access.)
 
 ## Project description
